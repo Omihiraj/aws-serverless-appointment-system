@@ -1,5 +1,5 @@
 
-# 🚀 Serverless Appointment Booking System
+# 🚀 Serverless Appointment Booking System.
 
 ### Modernizing a Legacy .NET Application into a Cloud-Native AWS Serverless Architecture
 
